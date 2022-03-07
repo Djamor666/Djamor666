@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Djamor666
+- 👀 I’m interested in science
+- 🌱 I’m currently learning microdata
+- 💞️ I’m looking to collaborate on web development
